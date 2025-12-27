@@ -118,7 +118,7 @@ DevOps Engineers automate deployments, manage cloud infrastructure, and ensure o
 - Implement infrastructure as code and deployment automation
 - Coordinate release activities and deployment schedules
 - Monitor system performance, reliability, and incident response
-- Liaise with the team on post-deployment issues and rollbacks
+- Collaborate with the team to troubleshoot post-deployment issues and coordinate rollback procedures
 
 ### Goals
 - Achieve high system reliability and uptime

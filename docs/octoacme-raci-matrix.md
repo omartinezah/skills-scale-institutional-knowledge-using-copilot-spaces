@@ -51,7 +51,7 @@ This RACI matrix clarifies accountability and collaboration across project activ
 | Threat modeling | C | I | R | C | I | R | A/R |
 | Security testing | I | I | C | C | I | C | A/R |
 | Vulnerability remediation | C | C | R | I | I | R | A/R |
-| Security incident response | I | A/R | R | I | I | R | A/R |
+| Security incident response | I | C | R | I | I | R | A/R |
 | **Release & Communication** |
 | Release notes | A/R | C | C | C | I | C | I |
 | Deployment approval | A | A/R | I | C | I | C | C |

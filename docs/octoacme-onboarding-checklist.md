@@ -146,5 +146,3 @@ This onboarding checklist should be reviewed and updated regularly based on:
 - Changes in tools, processes, or team structure
 - Retrospective insights and lessons learned
 - Evolving project needs and organizational practices
-
-*Last updated: [Date]*
