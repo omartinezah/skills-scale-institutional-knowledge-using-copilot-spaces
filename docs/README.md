@@ -12,6 +12,8 @@ Welcome to the OctoAcme project management documentation. This guide provides a 
 - <a href="octoacme-release-and-deployment.md">Release &amp; Deployment Guide</a>
 - <a href="octoacme-retrospective-and-continuous-improvement.md">Retrospective &amp; Continuous Improvement</a>
 - <a href="octoacme-roles-and-personas.md">Roles &amp; Personas</a>
+- <a href="octoacme-raci-matrix.md">Responsibility Assignment Matrix (RACI)</a>
+- <a href="octoacme-onboarding-checklist.md">Role Onboarding Checklist</a>
 
 ## Project Management Processes Summary
 
